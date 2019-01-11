@@ -1,0 +1,8 @@
+E:\Study\vs\BPlusTree\BPlusTree\BPlusTree\bin\Debug\netstandard2.0\BPlusTree.deps.json
+E:\Study\vs\BPlusTree\BPlusTree\BPlusTree\bin\Debug\netstandard2.0\BPlusTree.dll
+E:\Study\vs\BPlusTree\BPlusTree\BPlusTree\bin\Debug\netstandard2.0\BPlusTree.pdb
+E:\Study\vs\BPlusTree\BPlusTree\BPlusTree\obj\Debug\netstandard2.0\BPlusTree.csproj.CoreCompileInputs.cache
+E:\Study\vs\BPlusTree\BPlusTree\BPlusTree\obj\Debug\netstandard2.0\BPlusTree.AssemblyInfoInputs.cache
+E:\Study\vs\BPlusTree\BPlusTree\BPlusTree\obj\Debug\netstandard2.0\BPlusTree.AssemblyInfo.cs
+E:\Study\vs\BPlusTree\BPlusTree\BPlusTree\obj\Debug\netstandard2.0\BPlusTree.dll
+E:\Study\vs\BPlusTree\BPlusTree\BPlusTree\obj\Debug\netstandard2.0\BPlusTree.pdb
